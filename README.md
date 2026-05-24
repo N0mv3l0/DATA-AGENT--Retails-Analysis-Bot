@@ -12,4 +12,4 @@ It was my first time building a data agent, and it was quite manageable. Taking 
 
 I validated Questions 2, 4, and 8, and all the responses matched. I am quite comfortable with my SQL syntax and understanding of its logic. All of that is due to extra practice on ChatGPT, the W3Schools website, and Databricks. 
 
-Overall, I enjoydOverall, I enjoyed the task, and I would not change anything. 
+Overall, I enjoyed the task, and I would not change anything. 
